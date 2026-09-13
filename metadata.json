@@ -1,0 +1,8 @@
+{
+  "name": "Krishi Drishti",
+  "description": "Smarter Farming. Healthier Crops. AI-assisted crop disease diagnosis and agricultural intelligence platform.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
